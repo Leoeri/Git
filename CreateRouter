@@ -1,0 +1,2 @@
+ Add-VMNetworkAdapter -VMName Fil0$i -SwitchName LAN
+    
